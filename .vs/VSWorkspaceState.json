@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MedicalApi",
+    "\\MedicalApi\\Models",
+    "\\MedicalApi\\Models\\Medicine"
+  ],
+  "SelectedNode": "\\MedicalApi\\Models\\Medicine\\AssetDetailModel.cs",
+  "PreviewInSolutionExplorer": false
+}

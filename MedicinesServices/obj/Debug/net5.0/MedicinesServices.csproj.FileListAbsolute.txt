@@ -1,0 +1,15 @@
+G:\Github\MedicinesServices\bin\Debug\net5.0\MedicinesServices.deps.json
+G:\Github\MedicinesServices\bin\Debug\net5.0\MedicinesServices.dll
+G:\Github\MedicinesServices\bin\Debug\net5.0\ref\MedicinesServices.dll
+G:\Github\MedicinesServices\bin\Debug\net5.0\MedicinesServices.pdb
+G:\Github\MedicinesServices\bin\Debug\net5.0\LibraryData.dll
+G:\Github\MedicinesServices\bin\Debug\net5.0\LibraryData.pdb
+G:\Github\MedicinesServices\obj\Debug\net5.0\MedicinesServices.csproj.AssemblyReference.cache
+G:\Github\MedicinesServices\obj\Debug\net5.0\MedicinesServices.GeneratedMSBuildEditorConfig.editorconfig
+G:\Github\MedicinesServices\obj\Debug\net5.0\MedicinesServices.AssemblyInfoInputs.cache
+G:\Github\MedicinesServices\obj\Debug\net5.0\MedicinesServices.AssemblyInfo.cs
+G:\Github\MedicinesServices\obj\Debug\net5.0\MedicinesServices.csproj.CoreCompileInputs.cache
+G:\Github\MedicinesServices\obj\Debug\net5.0\MedicinesServices.csproj.CopyComplete
+G:\Github\MedicinesServices\obj\Debug\net5.0\MedicinesServices.dll
+G:\Github\MedicinesServices\obj\Debug\net5.0\ref\MedicinesServices.dll
+G:\Github\MedicinesServices\obj\Debug\net5.0\MedicinesServices.pdb
